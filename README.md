@@ -94,5 +94,7 @@ Se você está usando um discovery server para gerenciar as instâncias e não p
 
 ![image](https://github.com/MarlonJerold/arquiteturamicroservice/assets/63025001/4ad458cd-7345-437b-bd6e-eb8f7cc287c8)
 
+Ao ser rodado mais de uma instância, foi adicionado um balaceamento de cargas, para que seja distribuido as cargas devidamente das requisições.
+
 
   
