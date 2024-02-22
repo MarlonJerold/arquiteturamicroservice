@@ -96,5 +96,7 @@ Se você está usando um discovery server para gerenciar as instâncias e não p
 
 Ao ser rodado mais de uma instância, foi adicionado um balaceamento de cargas, para que seja distribuido as cargas devidamente das requisições.
 
+Percebe-se que está sendo usado WebFlux para um Serviço em específico, foi adicionado mais de um paradigma de programação nesse projeto, o Reativo e o mais comum que vemos no mercado.
 
+Todo Parttens que foi adicionado no projeto foi apenas para mostrar os conhecimentos sobre eles, pois claramente não são necessários para esse projeto, seria apenas para mostrar na prática como funciona uma arquitetura de microserviço que aborda vários parttens em uma aplicação.
   
