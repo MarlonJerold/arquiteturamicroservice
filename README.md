@@ -92,6 +92,7 @@ Se você está usando um discovery server para gerenciar as instâncias e não p
 
 # Arquitetura 
 
-![image](https://github.com/MarlonJerold/arquiteturamicroservice/assets/63025001/10558725-a60e-4a1e-b4d3-2dc3f88fee66)
+![image](https://github.com/MarlonJerold/arquiteturamicroservice/assets/63025001/4ad458cd-7345-437b-bd6e-eb8f7cc287c8)
+
 
   
